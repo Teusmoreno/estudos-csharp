@@ -2,4 +2,5 @@
   <Project Path="01-LoopsForWhile/01-GuessTheNumberGame-Microsoftlearn.csproj" Id="2f99742a-9ad3-4606-8e31-a9f22d3d296a" />
   <Project Path="02-CaixaEletronico/02-CaixaEletronico.csproj" Id="243c82f5-e404-4ba3-acd2-51ac28dc187c" />
   <Project Path="Exercicios002/AnalisadorDeNumeros.csproj" Id="92d0ad6c-98f7-4b27-9b24-b497dbba3b4a" />
+  <Project Path="Tabuada/Tabuada.csproj" Id="f718ffc9-cc09-40c7-b28f-3f662a29db08" />
 </Solution>
