@@ -2,6 +2,8 @@
   <Project Path="01-LoopsForWhile/01-GuessTheNumberGame-Microsoftlearn.csproj" Id="2f99742a-9ad3-4606-8e31-a9f22d3d296a" />
   <Project Path="02-CaixaEletronico/02-CaixaEletronico.csproj" Id="243c82f5-e404-4ba3-acd2-51ac28dc187c" />
   <Project Path="08-ListaDeCompras/08-ListaDeCompras.csproj" Id="1d0d332b-6023-44ba-b9b1-36ccf601c8fa" />
+  <Project Path="09-ControleDeNotas/09-ControleDeNotas.csproj" Id="8cfcf0e0-2a6b-4715-9114-64d5bc24fab3" />
+  <Project Path="10 - FechamentoDeCaixa/10 - FechamentoDeCaixa.csproj" Id="b738da3e-483a-47dd-b812-1fba77b095dc" />
   <Project Path="EstudandoMatrizes/06-EstudandoMatrizes.csproj" Id="584ced35-aa06-4d23-908d-ad782fbe9036" />
   <Project Path="Exercicios002/03-AnalisadorDeNumeros.csproj" Id="92d0ad6c-98f7-4b27-9b24-b497dbba3b4a" />
   <Project Path="Tabuada Interativa/05-Tabuada Interativa.csproj" Id="ef67f14c-a0e6-43e8-b7b6-3ec7fae33943" />
